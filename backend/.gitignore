@@ -1,0 +1,17 @@
+# global
+*~
+*.swp
+.DS_Store
+
+# python
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+*$py.class
+
+1-wikipedia/*
+# 2-document/*
+# 3-index/*
+
+!.gitkeep

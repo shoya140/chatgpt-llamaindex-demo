@@ -1,0 +1,42 @@
+{
+  "name": "chatgpt-llamaindex-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "run-p start:*",
+    "start:nextjs": "next start",
+    "start:fastapi": "python ./backend/server.py",
+    "lint": "next lint",
+    "fmt": "prettier --write 'src/**/*.{ts, tsx, scss}' '*.{js, json}'"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/next-js": "^2.1.4",
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "eventsource-parser": "^1.0.0",
+    "framer-motion": "^10.12.16",
+    "next": "13.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.7",
+    "react-spinners": "^0.13.8",
+    "recoil": "^0.7.7",
+    "recoil-persist": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.8",
+    "@types/react-dom": "18.2.4",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.4",
+    "next-intercept-stdout": "^1.0.1",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.8.8",
+    "sass": "^1.62.1",
+    "typescript": "5.1.3"
+  }
+}

@@ -1,0 +1,9 @@
+能島裕介 (情報工学者)
+
+能島 裕介（のじま ゆうすけ）は、日本の情報工学者。大阪公立大学（旧：大阪府立大学）大学院情報学研究科基幹情報学専攻教授。博士（工学）（神戸大学）。日本知能情報ファジィ学会第15期理事。IEEE-CIS(Computational Intelligence Society) Task Force on Evolutionary Fuzzy SystemsチェアおよびComputational Intelligence Magazine副編集長。SCIS-ISIS2016 Publicityチェア。IFSA-SCIS 2017 Vice Programチェア。FAN2021 Onlineプログラム委員長。
+専門は、知能情報学（特にファジィシステム、遺伝的機械学習）・知能ロボティクス、制御工学・システム工学。
+略歴.
+1999年大阪工業大学工学部機械工学科卒業。2004年神戸大学大学院自然科学研究科システム機能科学専攻博士課程修了、博士（工学）（神戸大学）。同年、大阪府立大学（現：大阪公立大学）大学院工学研究科助手。2013年同研究科電気・情報系専攻准教授。2020年同研究科教授。2022年大阪公立大学大学院情報学研究科基幹情報学専攻教授。
+主な所属学会は、IEEE-CIS(Computational Intelligence Society)、ACM SIGEVO、 進化計算学会、システム制御情報学会。
+主な研究.
+知能情報学の対外啓蒙活動として、国際会議FUZZ-IEEEで、9年連続Special Session on Evolutionary Fuzzy Systemsのオーガナイザーを担当、首都大学東京（現：東京都立大学）大学院システムデザイン研究科で特別講義（2013, 「遺伝的ファジィシステムによる知識獲得」）を行っている。

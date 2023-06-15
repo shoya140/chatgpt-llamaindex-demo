@@ -1,0 +1,65 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  position: fixed;
+  bottom: 50%;
+  width: 100%;
+  max-height: calc(100%);
+  transform: translateY(50%);
+  overflow-y: auto;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.floating-header-container {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+%chat-box {
+  border-radius: 5px;
+  padding: 10px 16px;
+  max-width: 100%;
+}
+
+.chat-box-user {
+  @extend %chat-box;
+  background-color: #4c7fca;
+  color: #ffffff;
+}
+
+.chat-box-assistant {
+  @extend %chat-box;
+  background-color: #f5f7f7;
+}
+
+.chat-box-log {
+  font-size: 12px;
+  text-align: center;
+  color: #858585;
+  width: 100%;
+  text-align: center;
+  margin-top: 16px;
+}
